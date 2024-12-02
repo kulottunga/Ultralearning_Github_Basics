@@ -6,3 +6,6 @@ b=32
 c=a+b
 print(c)
 New Changes
+#substraction
+d=a-b
+print(d)
