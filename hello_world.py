@@ -11,3 +11,5 @@ d=a-b
 print(d)
 print("Git Learning is fun!")
 print("Overdue")
+print('Vamp')
+print('SKELETONS')
