@@ -3,4 +3,4 @@ __pycache__/
 *.pyc
 
 # Ignore environment files
-.env 
+.env test.env
