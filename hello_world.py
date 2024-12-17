@@ -16,4 +16,8 @@ print('SKELETONS')
 print('IKNOW')
 print('SICKO MODE')
 print('HER EYES')
+<<<<<<< HEAD
 print('This is the main branch change.')
+=======
+print('This is a conflicting change.')
+>>>>>>> conflict-test
